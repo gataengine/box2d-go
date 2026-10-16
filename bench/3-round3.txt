@@ -1,0 +1,140 @@
+Running Suite: Box2D ID Suite - /Users/wizard/workspace/gamedev/go-box2d
+========================================================================
+Random Seed: [1m1774400290[0m
+
+Will run [1m168[0m of [1m168[0m specs
+[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m[38;5;10m•[0m
+
+[38;5;10m[1mRan 168 of 168 Specs in 0.070 seconds[0m
+[38;5;10m[1mSUCCESS![0m -- [38;5;10m[1m168 Passed[0m | [38;5;9m[1m0 Failed[0m | [38;5;11m[1m0 Pending[0m | [38;5;14m[1m0 Skipped[0m
+goos: darwin
+goarch: arm64
+pkg: go-box2d
+cpu: Apple M1 Max
+BenchmarkCollision/ComputeHull-10         	10990272	       110.1 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/ValidateHull-10        	27721388	        44.02 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/MakePolygon-10         	18389876	        65.84 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/MakeBox-10             	87951553	        13.51 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/MakeSquare-10          	84995116	        14.32 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/MakeRoundedBox-10      	75357949	        15.92 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/MakeOffsetBox-10       	29280313	        40.48 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/TransformPolygon-10    	88730868	        13.77 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/AABBOverlaps/Hit-10    	957351643	         1.265 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/AABBOverlaps/Miss-10   	1000000000	         0.6389 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/AABBContains/True-10   	958652134	         1.260 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/AABBContains/False-10  	1000000000	         0.6303 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/PointInCircle/Inside-10         	1000000000	         0.7529 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/PointInCircle/Outside-10        	1000000000	         0.7497 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/PointInCapsule/Inside-10        	581614558	         2.088 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/PointInCapsule/Outside-10       	548160254	         2.218 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/PointInPolygon/Inside-10        	220785141	         5.372 ns/op	       0 B/op	       0 allocs/op
+BenchmarkCollision/PointInPolygon/Outside-10       	542238290	         2.229 ns/op	       0 B/op	       0 allocs/op
+BenchmarkBitSet/SetBit-10                          	1000000000	         0.4355 ns/op	       0 B/op	       0 allocs/op
+BenchmarkBitSet/GetBit-10                          	1000000000	         0.5598 ns/op	       0 B/op	       0 allocs/op
+BenchmarkBitSet/ClearBit-10                        	1000000000	         0.4315 ns/op	       0 B/op	       0 allocs/op
+BenchmarkBitSet/InPlaceUnion-10                    	1000000000	         0.6369 ns/op	       0 B/op	       0 allocs/op
+BenchmarkBitSet/CountSetBits-10                    	1000000000	         0.6332 ns/op	       0 B/op	       0 allocs/op
+BenchmarkHashSet/AddKey-10                         	42397332	        54.58 ns/op	      50 B/op	       0 allocs/op
+BenchmarkHashSet/ContainsKey/Hit-10                	380395372	         3.112 ns/op	       0 B/op	       0 allocs/op
+BenchmarkHashSet/ContainsKey/Miss-10               	96227095	        12.67 ns/op	       0 B/op	       0 allocs/op
+BenchmarkHashSet/RemoveKey-10                      	49845704	        30.17 ns/op	       0 B/op	       0 allocs/op
+BenchmarkDynamicTree/CreateProxy-10                	 1610256	       801.4 ns/op	     678 B/op	       0 allocs/op
+BenchmarkDynamicTree/DestroyProxy-10               	10080870	       151.3 ns/op	       0 B/op	       0 allocs/op
+BenchmarkDynamicTree/MoveProxy-10                  	 2305657	       528.1 ns/op	       0 B/op	       0 allocs/op
+BenchmarkDynamicTree/Query-10                      	 2862517	       417.9 ns/op	     112 B/op	       3 allocs/op
+BenchmarkDynamicTree/RayCast-10                    	  839734	      1440 ns/op	     960 B/op	      34 allocs/op
+BenchmarkDynamicTree/Rebuild-10                    	   24164	     49790 ns/op	   24817 B/op	       5 allocs/op
+BenchmarkDistance/SegmentDistance/Parallel-10      	220109812	         5.451 ns/op	       0 B/op	       0 allocs/op
+BenchmarkDistance/SegmentDistance/Crossing-10      	178773313	         6.764 ns/op	       0 B/op	       0 allocs/op
+BenchmarkDistance/ShapeDistance/CircleCircle-10    	26620179	        45.33 ns/op	       0 B/op	       0 allocs/op
+BenchmarkDistance/ShapeDistance/BoxBox-10          	21619186	        55.05 ns/op	       0 B/op	       0 allocs/op
+BenchmarkDistance/TimeOfImpact/BoxBox-10           	 4505449	       268.3 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollideCircles-10                	136089942	         8.744 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollideCapsuleAndCircle-10       	56384461	        21.41 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollideSegmentAndCircle-10       	56421027	        21.14 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollidePolygonAndCircle-10       	50346393	        23.75 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollideCapsules-10               	51809742	        23.06 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollideSegmentAndCapsule-10      	51885814	        22.79 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollidePolygonAndCapsule-10      	48788005	        24.92 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollidePolygons-10               	47698387	        25.55 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollideSegmentAndPolygon-10      	49045652	        24.17 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollideChainSegmentAndCircle-10  	57641848	        21.37 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollideChainSegmentAndCapsule-10 	53272070	        22.90 ns/op	       0 B/op	       0 allocs/op
+BenchmarkManifold/CollideChainSegmentAndPolygon-10 	50168271	        24.38 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMass/ComputeCircleMass-10                 	1000000000	         0.7991 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMass/ComputeCapsuleMass-10                	385071112	         3.115 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMass/ComputePolygonMass/Box-10            	132454082	         8.946 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMass/ComputePolygonMass/Hexagon-10        	41100464	        29.68 ns/op	      48 B/op	       1 allocs/op
+BenchmarkMass/ComputeCircleAABB-10                 	1000000000	         1.001 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMass/ComputeCapsuleAABB-10                	466569864	         2.561 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMass/ComputePolygonAABB/Box-10            	123168682	         9.667 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMass/ComputePolygonAABB/Hexagon-10        	93759456	        13.10 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMass/ComputeSegmentAABB-10                	473145616	         2.559 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/Dot-10                               	1000000000	         0.3169 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/Cross-10                             	1000000000	         0.3203 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/CrossVS-10                           	1000000000	         0.4802 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/CrossSV-10                           	1000000000	         0.4753 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/Add-10                               	1000000000	         0.4025 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/Sub-10                               	1000000000	         0.4005 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/MulSV-10                             	1000000000	         0.4369 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/Neg-10                               	1000000000	         0.4035 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/Length-10                            	1000000000	         0.6366 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/LengthSquared-10                     	1000000000	         0.3175 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/Distance-10                          	1000000000	         0.6394 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/DistanceSquared-10                   	1000000000	         0.4782 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/Normalize-10                         	1000000000	         1.138 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/GetLengthAndNormalize-10             	1000000000	         1.146 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/Lerp-10                              	1000000000	         0.5235 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/MulAdd-10                            	1000000000	         0.4415 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/MulSub-10                            	1000000000	         0.4376 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/LeftPerp-10                          	1000000000	         0.3614 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/RightPerp-10                         	1000000000	         0.3584 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/MakeRot-10                           	148045870	         8.022 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/ComputeCosSin-10                     	148641309	         8.072 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/NormalizeRot-10                      	1000000000	         1.137 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/RotateVector-10                      	1000000000	         0.4773 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/InvRotateVector-10                   	1000000000	         0.4804 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/TransformPoint-10                    	1000000000	         0.5672 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/InvTransformPoint-10                 	1000000000	         0.5691 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/MulRot-10                            	1000000000	         0.4796 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/MulTransforms-10                     	592819963	         2.042 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/NLerp-10                             	699707605	         1.704 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/RotGetAngle-10                       	201752866	         5.993 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/RelativeAngle-10                     	180945098	         6.699 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/UnwindAngle-10                       	170686147	         7.051 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/Atan2-10                             	192097777	         6.256 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/ComputeRotationBetweenUnitVectors-10 	571693545	         2.080 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMath/AbsFloat-10                          	1000000000	         0.4813 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/Circle/Hit-10                     	73091992	        15.80 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/Circle/Miss-10                    	231333550	         5.197 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/Capsule/Hit-10                    	11747976	       103.0 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/Capsule/Miss-10                   	24901215	        48.94 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/Segment/Hit-10                    	100000000	        10.60 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/Segment/Miss-10                   	253821936	         4.705 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/Segment/OneSided-10               	100000000	        10.90 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/Polygon/Hit-10                    	100000000	        10.87 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/Polygon/Miss-10                   	175018629	         6.750 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/AABB/Hit-10                       	187801974	         6.391 ns/op	       0 B/op	       0 allocs/op
+BenchmarkRayCast/AABB/Miss-10                      	214908676	         5.565 ns/op	       0 B/op	       0 allocs/op
+BenchmarkShapeCast/ShapeCast/PairInput-10          	 8036271	       148.7 ns/op	       0 B/op	       0 allocs/op
+BenchmarkShapeCast/ShapeCastCircle-10              	 6690882	       176.0 ns/op	       0 B/op	       0 allocs/op
+BenchmarkShapeCast/ShapeCastCapsule-10             	 6568366	       176.8 ns/op	       0 B/op	       0 allocs/op
+BenchmarkShapeCast/ShapeCastSegment-10             	 6707071	       176.7 ns/op	       0 B/op	       0 allocs/op
+BenchmarkShapeCast/ShapeCastPolygon-10             	 5267180	       227.3 ns/op	       0 B/op	       0 allocs/op
+BenchmarkWorldOps/CreateAndDestroyWorld-10         	 2915838	       404.0 ns/op	    1280 B/op	       1 allocs/op
+BenchmarkWorldOps/CreateBody-10                    	 8176600	       126.1 ns/op	     892 B/op	       1 allocs/op
+BenchmarkWorldOps/CreateCircleShape-10             	   10000	    159822 ns/op	    1749 B/op	       1 allocs/op
+BenchmarkWorldOps/CreatePolygonShape-10            	   10000	    211838 ns/op	    1749 B/op	       1 allocs/op
+BenchmarkWorldOps/Step/Empty-10                    	12398551	        94.91 ns/op	       0 B/op	       0 allocs/op
+BenchmarkWorldOps/Step/10Bodies-10                 	   85921	     14017 ns/op	       0 B/op	       0 allocs/op
+BenchmarkWorldOps/Step/100Bodies-10                	    4482	    262069 ns/op	      45 B/op	       0 allocs/op
+BenchmarkJointGrid-10                              	   10000	    133235 ns/op	     103 B/op	       0 allocs/op
+BenchmarkLargePyramid-10                           	    1530	   1285750 ns/op	   12361 B/op	       0 allocs/op
+BenchmarkManyPyramids-10                           	    1962	   1356063 ns/op	   10902 B/op	       0 allocs/op
+BenchmarkRain-10                                   	   10000	    419584 ns/op	    1156 B/op	       0 allocs/op
+BenchmarkSmash-10                                  	    5539	    320228 ns/op	     624 B/op	       0 allocs/op
+BenchmarkSpinner-10                                	    7543	    290387 ns/op	    1266 B/op	       0 allocs/op
+BenchmarkTumbler-10                                	   10000	    243107 ns/op	     459 B/op	       0 allocs/op
+BenchmarkWasher-10                                 	   10000	    287362 ns/op	     585 B/op	       0 allocs/op
+PASS
+ok  	go-box2d	174.834s
